@@ -32,6 +32,7 @@ public class WebPushDemoApplication {
                 put("key", "BPDTfWKFdjt0olR0UVLn7N_NPZ6taIIDDUboWBDJwcmNal6E714-2aT5V-_dnn15kiToMkioSTZTE_jNOrWEPSI");
                 put("auth", "Wm_F5UopYEwQdCgG8rRFBA");
             }}
+            // add more subscriptions here.
         );
         // The service below is configured using constants from https://github.com/gauntface/simple-push-demo/blob/main/frontend/scripts/constants.js
         final PushService service = new PushService(
